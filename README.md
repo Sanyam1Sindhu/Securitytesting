@@ -28,13 +28,13 @@ To improve your security testing product or service
 How were the patterns collected?
 Many, many hours of research and pentesting. And
 
-analysis of default app installs
-analysis of system and application documentation
-analysis of error messages
-researching old web exploits for repeatable attack strings
-scraping scanner payloads from http logs
-various books, articles, blog posts, mailing list threads
-other open source fuzzers and pentest tools and the input of contributors: https://github.com/fuzzdb-project/fuzzdb/graphs/contributors
+Analysis of default app installs
+Analysis of system and application documentation
+Analysis of error messages
+Researching old web exploits for repeatable attack strings
+Scraping scanner payloads from http logs
+Various books, articles, blog posts, mailing list threads
+Other open source fuzzers and pentest tools and the input of contributors: https://github.com/fuzzdb-project/fuzzdb/graphs/contributors
 Places you can find FuzzDB
 Other security tools and projects that incorporate FuzzzDB in whole or part
 
